@@ -1,10 +1,6 @@
 # AXIPAYS Technical Assignment
 
-Production React application for the AXIPAYS payment gateway assignment (2026).
-
-**Live demo:** _Add your deployed URL here_  
-**Repository:** _Add your GitHub URL here_
-
+**Live demo:** https://axiflow-payment-gateway.vercel.app/
 ---
 
 ## Tech stack
