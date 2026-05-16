@@ -197,9 +197,3 @@ Hash = HMAC-SHA256(message, "AXI2026") → uppercase hex
 - Transaction list uses `orderId` — normalised in UI  
 - Success volume summed in USD display when mixed currencies exist (assignment does not specify FX)  
 - `redirection_url` is the primary continuation path after initiate  
-
----
-
-## License
-
-MIT — AXIPAYS technical assignment submission.
